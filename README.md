@@ -40,10 +40,10 @@ AutomationStoreProject/
 AUT URL: https://automationteststore.com/
 
 ## 🧪 Manual Testing Summary
-- **Total Test Cases Executed:** 40
-- ✅ Passed: 33
-- ❌ Failed: 7
-- 🐞 Defects Logged: 7
+- **Total Test Cases Executed:** 45
+- ✅ Passed: 37
+- ❌ Failed: 8
+- 🐞 Defects Logged: 8
 
 ### 📌 Test Scenarios Covered
 - Login (valid and invalid credentials)
