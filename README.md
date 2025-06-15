@@ -26,7 +26,7 @@ Automate and validate key functionalities of the [Automation Test Store](https:/
 <img alt="Edge" src="https://img.shields.io/badge/Edge-5C2D91?logo=microsoft-edge&logoColor=white&style=flat" />
 <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF9500?logo=firefox-browser&logoColor=white&style=flat" />
 <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat" />
-<img alt="Cypress" src="https://github.com/user-attachments/assets/bebb5d6b-9232-4ee0-b095-cbf69654941f" />
+
 
 ## Directory Structure
 AutomationStoreProject/
