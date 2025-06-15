@@ -98,7 +98,7 @@ SeleniumEcommerceProject/
 
 ![1](https://github.com/user-attachments/assets/d5e12611-7576-4187-9bc6-2700abd49f09)
 ![2](https://github.com/user-attachments/assets/2a5c012d-512e-4621-bcd0-7ddeb0107a6b)
-![3](https://github.com/user-attachments/assets/5cd5b7bb-14f3-423c-9271-d420ecf0a4a5)
+![4](https://github.com/user-attachments/assets/ab4cc1e9-e671-4e8d-9a75-8f3d2bcccbaa)
 
 ## 📊 Key Features
 - Page Object Model for modular and scalable code
