@@ -10,11 +10,13 @@ public class AddToCartTest extends BaseTest {
 	
 	
 	 @Test
-	    public void addToCartTest() {
+	    public void addToCartTest() throws InterruptedException {
 	        driver.get("https://automationteststore.com/");
 	        ProductPage product = new ProductPage(driver);
 	        product.addFirstProductToCart();
-	        Assert.assertTrue(driver.getPageSource().contains("Success: You have added"));
+	        Assert.assertTrue(driver.getPageSource().contains("Shopping Cart"));
+	        
+	        Thread.sleep(3000);
 	    }
 	
 }

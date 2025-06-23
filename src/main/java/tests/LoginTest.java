@@ -15,8 +15,8 @@ public class LoginTest extends BaseTest {
         login.login("sahilshirale123", "sahil@123456");
         
         Thread.sleep(3000);
-        Assert.assertTrue(driver.findElement(By.xpath("//a[text()=' Logout']")).isDisplayed());
-        Thread.sleep(5000);
+        Assert.assertTrue(driver.findElement(By.xpath("//span[text()='My Account']")).isDisplayed());
+        Thread.sleep(3000);
         
     }
 	
