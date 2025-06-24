@@ -78,23 +78,33 @@ AUT URL: https://automationteststore.com/
 ```bash
 SeleniumEcommerceProject/
 ├── pom.xml
+├── testng.xml
+├── ExtentReport.html
 ├── src/
 │   ├── main/java/pages/
 │   │   ├── LoginPage.java
 │   │   ├── HomePage.java
 │   │   ├── ProductPage.java
-│   │   └── CheckoutPage.java
+│   │   ├── CheckoutPage.java
+│   │   └── WishList.java                
+│
 │   └── test/java/tests/
 │       ├── LoginTest.java
 │       ├── SearchTest.java
 │       ├── AddToCartTest.java
 │       ├── CheckoutTest.java
-│       └── ContactUsTest.java
-└── BaseTest.java
-```
-
----
-
+│       ├── ContactUsTest.java
+│       └── WishListTest.java           
+│
+├── src/main/java/utilities/
+│   ├── ExtentReportManager.java        
+│   └── package-info.java
+│
+├── src/test/java/tests/
+│   └── BaseTest.java                
+├── test-output/                        <
+│
+└── README.md
 ## Attachments
 
 ![1](https://github.com/user-attachments/assets/d5e12611-7576-4187-9bc6-2700abd49f09)
