@@ -105,6 +105,9 @@ SeleniumEcommerceProject/
 ├── test-output/                        <
 │
 └── README.md
+```
+
+---
 ## Attachments
 
 ![1](https://github.com/user-attachments/assets/d5e12611-7576-4187-9bc6-2700abd49f09)
