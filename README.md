@@ -1,4 +1,6 @@
 # Selenium E-commerce Automation Project
+## My Resume : 
+[resume](https://1drv.ms/w/c/b125768f2c10903c/EROM5RHTvt5HpC4BEsV_vHEBFUTBc9BT30bHRhGKzNUyEA?e=jcFR3W)
 
 ## 🧾 Project Title
 **Automation Test Store – Selenium E-commerce Testing**
