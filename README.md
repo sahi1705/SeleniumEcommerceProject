@@ -123,6 +123,31 @@ SeleniumEcommerceProject/
 - Maven for dependency management and test execution
 
 ---
+This project includes **Security Testing** of selected features from the e-commerce website [Automation Test Store](https://automationteststore.com) using **Burp Suite Community Edition**.
+
+## 🔍 Targeted Features
+
+1. **Login Functionality**
+2. **Search Functionality**
+
+## 🛠 Tools Used
+
+- 🔧 Burp Suite (Community Edition)
+- 🌐 Web browser (with Burp proxy setup)
+
+## 🧪 Performed Tests
+
+### 1. **Login Functionality**
+- **Brute Force Attack Simulation** using Burp Intruder
+  - Attempted multiple password combinations using payload lists
+  - Verified response codes and content length changes to detect valid credentials
+- **Response Manipulation**
+  - Analyzed HTTP responses to check for session tokens or insecure exposure of credentials
+
+### 2. **Search Functionality**
+- **Cross-Site Scripting (XSS)**
+  - Injected scripts (`<script>alert('XSS')</script>`) to test for XSS vulnerability
+  - Observed for reflected inputs in HTML response
 
 ## 🔍 Manual Testing Insights
 - Some elements lacked hover/visual feedback
