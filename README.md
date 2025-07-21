@@ -124,6 +124,28 @@ SeleniumEcommerceProject/
 - Maven for dependency management and test execution
 
 ---
+## 📈 Performance Testing with Apache JMeter
+
+### 🔧 Tools Used
+- Apache JMeter 5.6.3
+- Chrome + BlazeMeter extension (for recording test plan)
+- CSV Data Set Config (for dynamic inputs)
+
+### 📊 Scenarios Tested
+
+1. **Login Load Test**
+   - Simulated 50 users logging in simultaneously
+   - Observed response time, error %, throughput
+
+2. **Search Load Test**
+   - 100 users searching for random product keywords
+   - Measured server handling under load
+
+3. **Add to Cart + Checkout Flow**
+   - Simulated end-to-end checkout with 20 virtual users
+   - Analyzed performance bottlenecks in user flow
+
+
 This project includes **Security Testing** of selected features from the e-commerce website [Automation Test Store](https://automationteststore.com) using **Burp Suite Community Edition**.
 
 ## 🔍 Targeted Features
