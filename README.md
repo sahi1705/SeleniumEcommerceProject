@@ -130,6 +130,7 @@ SeleniumEcommerceProject/
 - Apache JMeter 5.6.3
 - Chrome + BlazeMeter extension (for recording test plan)
 - CSV Data Set Config (for dynamic inputs)
+  ![5](https://github.com/user-attachments/assets/228abf8e-8959-4fb6-bc74-bb7c86563b60)
 
 ### 📊 Scenarios Tested
 
@@ -166,6 +167,8 @@ This project includes **Security Testing** of selected features from the e-comme
   - Verified response codes and content length changes to detect valid credentials
 - **Response Manipulation**
   - Analyzed HTTP responses to check for session tokens or insecure exposure of credentials
+  - 
+  ![1](https://github.com/user-attachments/assets/337b54a5-ebce-4ba5-9293-3980c3b64a10)
 
 ### 2. **Search Functionality**
 - **Cross-Site Scripting (XSS)**
