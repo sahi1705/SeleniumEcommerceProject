@@ -3,6 +3,8 @@
 ## 🧾 Project Title
 **Automation Test Store – Selenium E-commerce Testing**
 
+## Project Presentation : [Click here to watch the video](https://drive.google.com/file/d/1_URNhB2uqFg4xLTQHFiPHeWFV1iCg9iE/view?usp=drive_link)
+
 ![AS_logo](https://github.com/user-attachments/assets/52268e5f-6f2b-46d0-9bcf-634c9f54ee80)
 
 ---
