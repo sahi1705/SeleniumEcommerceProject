@@ -148,7 +148,7 @@ SeleniumEcommerceProject/
    - Analyzed performance bottlenecks in user flow
 
 
-This project includes **Security Testing** of selected features from the e-commerce website [Automation Test Store](https://automationteststore.com) using **Burp Suite Community Edition**.
+## This project includes  **Security Testing** of selected features from the e-commerce website [Automation Test Store](https://automationteststore.com) using **Burp Suite Community Edition**.
 
 ## 🔍 Targeted Features
 
