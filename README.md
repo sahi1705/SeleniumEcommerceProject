@@ -1,5 +1,5 @@
 # Selenium E-commerce Automation Project
-## My Resume :    [QA_Sahil_Resume](https://drive.google.com/file/d/1-QZGgsFeTayxeH_VfWMeBfx7hbrphyw-/view?usp=sharing))
+## My Resume :    [QA_Sahil_Resume](https://drive.google.com/file/d/1-QZGgsFeTayxeH_VfWMeBfx7hbrphyw-/view?usp=sharing)
 ## 🧾 Project Title
 **Automation Test Store – Selenium E-commerce Testing**
 
