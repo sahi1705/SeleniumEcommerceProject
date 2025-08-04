@@ -1,8 +1,13 @@
+
+## For Selenium files please check **Master** branch
+
+
+
 # Selenium E-commerce Automation Project
-## For Selenium files please check **master** Branch
-## My Resume :    [QA_Sahil_Resume](https://drive.google.com/file/d/1-QZGgsFeTayxeH_VfWMeBfx7hbrphyw-/view?usp=sharing)
 ## 🧾 Project Title
 **Automation Test Store – Selenium E-commerce Testing**
+
+## My Resume :    [QA_Sahil_Resume](https://drive.google.com/file/d/1-QZGgsFeTayxeH_VfWMeBfx7hbrphyw-/view?usp=sharing)
 
 ## Project Presentation : [Click here to watch the video](https://drive.google.com/file/d/1_URNhB2uqFg4xLTQHFiPHeWFV1iCg9iE/view?usp=drive_link)
 
