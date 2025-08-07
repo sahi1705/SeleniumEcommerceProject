@@ -31,6 +31,14 @@ Automate and validate key functionalities of the [Automation Test Store](https:/
 <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat" />
 
 
+
+
+## Application Under Test 
+
+AUT URL: https://automationteststore.com/
+
+## 🧪 Manual Testing Summary
+
 ## Directory Structure
 AutomationStoreProject/
 ├─ AutomationStore2.0_Test Plan
@@ -39,11 +47,6 @@ AutomationStoreProject/
 ├─ AutomationStore2.0_BugReport
 ├─AutomationStore2.0_SummaryReport.
 
-## Application Under Test 
-
-AUT URL: https://automationteststore.com/
-
-## 🧪 Manual Testing Summary
 - **Total Test Cases Executed:** 45
 - ✅ Passed: 37
 - ❌ Failed: 8
